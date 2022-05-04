@@ -17,7 +17,7 @@ dependencies:
   # just_audio_web: ^0.4.4
   just_audio_web:
     git:
-      url: https://github.com/ryanheise/just_audio.git
+      url: https://github.com/mkgor/just_audio.git
       ref: visualizer
       path: just_audio_web
   audio_session: ^0.1.6+1
